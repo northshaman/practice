@@ -1,3 +1,14 @@
+*.class
+
+#Mobile Tools for Java (J2ME)
+.mjt.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Custom settings
 .idea
 out
 target
