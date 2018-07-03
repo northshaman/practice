@@ -9,7 +9,7 @@
 *.ear
 
 # Custom settings
-.idea
+.idea/*
 out
 target
 *.iml
