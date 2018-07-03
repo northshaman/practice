@@ -6,7 +6,7 @@ package com.programmr;
 public class Palindrome {
 
     public static void main(String[] args) {
-        System.out.println("Palindrome!");
+        System.out.println("Palindrome Branch!");
     }
 
 }
