@@ -3,7 +3,7 @@ package com.programmr;
 import java.util.Scanner;
 
 /**
- * Write a program which takes input as string and check if it is palindrome or not.If the string and the reverse of string are same then we say string is palindrome.
+ * Write a program which takes input as string and check if it is palindrome or not.If the string and the reverseRecursion of string are same then we say string is palindrome.
  * <p>
  * If string is "level" then the output should be: palindrome
  */
