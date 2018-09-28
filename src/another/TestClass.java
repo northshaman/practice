@@ -2,6 +2,7 @@ package another;
 
 /**
  * Created by user on 15.07.2018.
+ * add some comment
  */
 public class TestClass {
 
